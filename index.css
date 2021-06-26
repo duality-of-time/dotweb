@@ -1,0 +1,68 @@
+@font-face {
+  font-family: pog;
+  src: url(custom.ttf) format("truetype");
+}
+
+
+body {background-color: #000000;}
+body, html{
+  margin:0;
+  padding:0;
+}
+ 
+
+/*Navbar begin*/
+.navbar {
+	font-family: "pog", "Courier New", monospace;
+	background-color:#383838;
+	width=100%;
+	height=12.5em;
+	margin-top: -1.5em;
+	text-align: center;
+	text-decoration: none;
+	font-size: 1.2em;
+	text-shadow: 2px 2px #000000;
+
+}
+
+/* unvisited link */
+.navbar a:link {
+  color: grey;
+	text-decoration: none;
+}
+
+/* visited link */
+.navbar a:visited {
+  color: grey;
+	text-decoration: none;
+}
+
+/* mouse over link */
+.navbar a:hover {
+  color: silver;
+	text-decoration: none;
+}
+
+/* selected link */
+.navbar a:active {
+  color: grey;
+	text-decoration: none;
+}
+
+/* Navbar End*/
+#logo{
+	margin-left: 38%;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
