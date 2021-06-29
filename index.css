@@ -4,10 +4,17 @@
 }
 
 
-body {background-color: #000000;}
+body {background-color: #000000;
+  overflow-wrap: break-word;
+}
 body, html{
   margin:0;
   padding:0;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
  
 
@@ -51,7 +58,20 @@ body, html{
 
 /* Navbar End*/
 #logo{
-	margin-left: 38%;
+	margin-left: 38%;}
+/* Main Body */
+.mainannouncehead{
+	color: white;
+	font-size: 3em;
+	font-family: "pog", "Courier New", monospace;
+	text-align: center;}
+.bodytext{
+	color: white;
+	font-size: 1.5em;
+	font-family: "pog", "Courier New", monospace;
+	text-align: center;}
+	
+}
 	
 	
 	
