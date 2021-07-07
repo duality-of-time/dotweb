@@ -1,0 +1,95 @@
+@font-face {
+  font-family: pog;
+  src: url(custom.ttf) format("truetype");
+}
+
+
+body {background-color: #000000;
+  overflow-wrap: break-word;
+}
+body, html{
+  margin:0;
+  padding:0;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ 
+
+/*Navbar begin*/
+.langswitch{
+float: right;
+margin-right: 0px;
+
+
+}
+.navbar {
+	font-family: "pog", "Courier New", monospace;
+	background-color:#383838;
+	width=100%;
+	height=12.5em;
+	margin-top: -1.5em;
+	text-align: center;
+	text-decoration: none;
+	font-size: 1.2em;
+	text-shadow: 2px 2px #000000;
+
+}
+
+/* unvisited link */
+a:link {
+  color: grey;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: grey;
+	text-decoration: none;
+}
+
+/* mouse over link */
+ a:hover {
+  color: silver;
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: grey;
+	text-decoration: none;
+}
+
+/* Navbar End*/
+#logo{
+	margin-left: auto;
+	margin-right: auto;}
+/* Main Body */
+.mainannouncehead{
+	color: white;
+	font-size: 2.5em;
+	font-family: "pog", "Courier New", monospace;
+	text-align: center;}
+.bodytext{
+	color: white;
+	font-size: 1.5em;
+	font-family: "pog", "Courier New", monospace;
+	text-align: center;}
+	
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
